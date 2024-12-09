@@ -1,0 +1,18 @@
+p{
+    padding-top: 10px;
+}
+
+input{
+    border-radius: 10px;
+    height: 32px;
+    width: 200px;
+    border: 2px solid rgb(146, 136, 136);
+}
+
+.container{
+    display: flex;
+    min-height: 50px;
+    flex-direction: column;
+    max-width: 200px;
+    flex-wrap: wrap;
+}
