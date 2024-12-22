@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    background-color: aquamarine;
+    /* max-width: 500px; */
+}
+
+.active-link{
+    color: red;
+    border: 1px solid black;
+}
